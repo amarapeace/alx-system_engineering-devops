@@ -1,2 +1,2 @@
-#!/bin/baash
-chmod 754 hello
+#!/bin/bash
+chmod -rwxr-xr-- hello
